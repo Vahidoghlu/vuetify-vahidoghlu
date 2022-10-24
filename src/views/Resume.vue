@@ -11,7 +11,7 @@
                 <div class="caption font-weight-bold green--text">PRESENT</div>
               </v-flex>
               <v-flex class="pl-2">
-                <strong>Freelance Frontend Developer</strong>
+                <strong>Freelance Frontend <br> Developer</strong>
                 <div class="caption mb-2">Remote</div>
               </v-flex>
             </v-layout>
@@ -38,7 +38,7 @@
               </v-flex>
               <v-flex class="pl-2">
                 <strong>Schoolchild’s friend</strong>
-                <div class="caption mb-2">Ministry of Science and Education <br> Republic of Azerbaijan</div>
+                <div class="caption mb-2">Ministry of Science <br> and Education <br> Republic of Azerbaijan</div>
               </v-flex>
             </v-layout>
           </v-timeline-item>
@@ -69,7 +69,7 @@
                 <div class="caption font-weight-bold green--text">JUL 2019</div>
               </v-flex>
               <v-flex class="pl-2">
-                <strong>Azerbaijan State University of <br> Culture and Fine Arts</strong>
+                <strong>Azerbaijan State <br> University of <br> Culture and Fine Arts</strong>
                 <div class="caption mb-2">Sociology</div>
               </v-flex>
             </v-layout>
