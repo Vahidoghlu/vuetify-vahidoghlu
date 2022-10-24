@@ -129,9 +129,6 @@ export default {
       icons: [
         {href: "https://www.linkedin.com/in/vahidoghlu/", icon: "fab fa-linkedin-in"},
         {href: "https://github.com/Vahidoghlu", icon: "fab fa-github"},
-
-        {href: "https://twitter.com/MrVahidoghlu", icon: "fab fa-twitter"},
-
         {href: "https://www.facebook.com/abbas.vahidoghlu", icon: "fab fa-facebook-f"},
         {href: "https://www.instagram.com/mr.vahidoghlu/", icon: "fab fa-instagram"},
         {href: "https://api.whatsapp.com/send?phone=+994559601155&text=Salam, sizinlə əlaqə saxlamaq istərdim", icon: "fab fa-whatsapp"},

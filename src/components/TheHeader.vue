@@ -29,7 +29,6 @@
     <v-toolbar flat dense color="transparent" scroll-off-screen>
       <v-toolbar-side-icon class="hidden-md-and-up" @click.stop="drawer = !drawer"></v-toolbar-side-icon>
       <v-toolbar-title class="headline">
-        <span class="font-weight-light">Abbas</span>
         <v-icon class="ml-2 letter__v "   color="green">fab fa-vuejs</v-icon>
         <span class="green--text">ahidoghlu</span>
       </v-toolbar-title>
