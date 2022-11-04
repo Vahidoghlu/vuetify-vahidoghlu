@@ -7,7 +7,7 @@
           <span class="green--text">Touch</span>
         </h2>
         <div class="py-4 subheading font-weight-bold">
-          <v-icon large color="green" left>fas fa-map-marker-alt</v-icon>
+          <v-icon class="mr-3 ml-2" large color="green" left>fas fa-map-marker-alt </v-icon>
           <span>Baku,&nbsp;</span>
           <span class="green--text">Azerbaijan</span>
         </div>

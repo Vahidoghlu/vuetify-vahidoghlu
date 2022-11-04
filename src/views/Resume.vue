@@ -25,7 +25,7 @@
               </v-flex>
               <v-flex class="pl-2">
                 <strong>Transport Manager</strong>
-                <div class="caption mb-2">Transport Manager (F1)</div>
+                <div class="caption mb-2">Baku City Circuit (F1)</div>
               </v-flex>
             </v-layout>
           </v-timeline-item>
@@ -119,14 +119,14 @@
       </v-flex>
       <div class="mt-4 pt-2">
         <v-btn
-          href="https://www.linkedin.com/in/vahidoghlu/"
+          href="https://drive.google.com/file/d/1s7bqElqxY6edilVHbCDTQwwxy5OHlhKN/view?usp=sharing"
           target="_blank"
           color="green"
           dark
           large
         >
-          Resume
-          <v-icon right dark>fas fa-file</v-icon>
+          Resume download
+          <v-icon right dark>fas fa-file-download</v-icon>
         </v-btn>
       </div>
     </v-layout>
